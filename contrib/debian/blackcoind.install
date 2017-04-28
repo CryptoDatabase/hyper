@@ -1,0 +1,2 @@
+debian/bin/hyperd usr/bin
+src/hyperd usr/lib/hyper

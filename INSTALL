@@ -1,0 +1,9 @@
+Building hyper
+
+See doc/readme-qt.rst for instructions on building hyper QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of hyper.
+
+See doc/build-*.txt for instructions on building hyperd,
+the intended-for-services, no-graphical-interface, reference
+implementation of hyper.

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=hyper
+Comment=hyper P2P Cryptocurrency
+Comment[fr]=hyper, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=hyper, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/hyper-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/hyper;
+Categories=Office;
